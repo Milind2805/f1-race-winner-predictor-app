@@ -7,7 +7,7 @@ Predict who wins a Formula 1 race from qualifying, weather and championship stan
 
 > The API runs on a free Render instance, so the first request after a quiet period can take up to a minute while it wakes up.
 
-<!-- Add a screenshot here: ![App screenshot](docs/screenshot.png) -->
+[App screenshot]("C:\Users\mks90\OneDrive\Pictures\Screenshots\Screenshot 2026-10-06 115513.png")
 
 ## What it does
 
